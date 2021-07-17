@@ -1,5 +1,5 @@
 # Employee_Task_Management_system
-This is a Employee task management system in PHP ,Javascript and Ajax.This task management system script contains two sections :-
+This is a Employee task management system .This task management system script contains two sections :-
 
  1) Boss
     --> Boss can create new user,new task,give tasks to the Employee, can enable and disable task,Employee,comment. 
